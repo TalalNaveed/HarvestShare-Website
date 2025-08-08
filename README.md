@@ -1,6 +1,6 @@
 # HarvestShare 🌱
 
-A modern web platform that connects food donors with charities and individuals facing hunger, ensuring surplus food is shared with those in need.
+A modern web platform that connects food donors with charities and individuals facing hunger, ensuring surplus food is shared with those in need. This came to light as a final project for one of my courses. The project is a frontend which delivers the main idea of what we came up with.
 
 ## 📋 Table of Contents
 
@@ -16,9 +16,7 @@ A modern web platform that connects food donors with charities and individuals f
 
 ## 🌟 About
 
-HarvestShare is a community-driven platform designed to reduce food waste and combat hunger by creating a bridge between food donors and those in need. The platform facilitates the donation and distribution of surplus food, making it easy for individuals and organizations to contribute to a more sustainable and equitable food system.
-
-**Mission**: "Where Abundance Meets Need" - Connecting food donors with charities and individuals facing hunger.
+HarvestShare is a community-driven platform designed to reduce food waste and combat hunger by creating a bridge between food donors and those in need.
 
 ## ✨ Features
 
