@@ -164,43 +164,7 @@ website/
    - Edit `contact1.py` to configure email settings
    - Update form processing logic as needed
 
-## 💻 Usage
 
-### For Food Donors
-1. Visit the homepage
-2. Click "Donate Food" or "Sign Up"
-3. Create an account or sign in
-4. Follow the donation process
-
-### For Food Recipients
-1. Visit the homepage
-2. Click "Get Food"
-3. Browse available food items
-4. Request food assistance
-
-### General Users
-1. Navigate through the website using the navigation menu
-2. Use the contact form for inquiries
-3. Sign up for an account to access full features
-
-## 🤝 Contributing
-
-We welcome contributions to improve HarvestShare! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make your changes**
-4. **Test thoroughly**
-5. **Submit a pull request**
-
-### Development Guidelines
-- Follow existing code style and conventions
-- Test on multiple browsers and devices
-- Ensure responsive design works properly
-- Update documentation as needed
 
 ## 📄 License
 
